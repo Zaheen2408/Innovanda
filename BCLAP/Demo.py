@@ -16,4 +16,4 @@ chromeDriver.find_element_by_xpath('//*[@id="ss"]').send_keys('London')
 sleep(2)
 searchBox.send_keys(Keys.ENTER)
 searchBox.send_keys(Keys.TAB)
-Test Test text
+
